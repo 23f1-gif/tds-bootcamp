@@ -2,7 +2,7 @@
 ---
 
 --- Before Day-1 ---
-I already knew few things.
+I already knew ...
 --- 
 
 ## Day-1 Checklist
